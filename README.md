@@ -35,3 +35,19 @@ Estimated Time: 7.3 Months
 
 Zizile Thembile Langa
 Diploma in Information Technology Student
+
+## Skills Demonstrated
+
+* Python Programming
+* Problem Solving
+* Financial Calculations
+* GitHub Version Control
+* Project Documentation
+
+## Future Improvements
+
+* User input functionality
+* Monthly budget tracking
+* Savings dashboard
+* Graphical user interface (GUI)
+
